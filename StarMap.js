@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Text, View } from 'react-native';
 
-export default class StarMapScreen extends Component {
+export default class StarMapScreen extends React.Component {
     render() {
         return (
             <View
