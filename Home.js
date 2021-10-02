@@ -11,7 +11,7 @@ import {
     Image
 } from 'react-native';
 
-export default class HomeScreen extends Component {
+export default class HomeScreen extends React.Component {
 
 
     render() {
